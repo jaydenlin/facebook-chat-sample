@@ -7,5 +7,15 @@
   <name>Facebook Chat Sample</name>
   <version>1.0</version>
   <dependencies>
+    <dependency>
+        <groupId>org.igniterealtime.smack</groupId>
+        <artifactId>smack</artifactId>
+        <version>3.2.1</version>
+    </dependency>
+    <dependency>
+        <groupId>org.igniterealtime.smack</groupId>
+        <artifactId>smackx</artifactId>
+        <version>3.2.1</version>
+    </dependency>
   </dependencies>
 </project>
