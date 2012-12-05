@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>kazfuku</groupId>
+  <artifactId>facebook-chat-sample</artifactId>
+  <packaging>jar</packaging>
+  <name>Facebook Chat Sample</name>
+  <version>1.0</version>
+  <dependencies>
+  </dependencies>
+</project>
